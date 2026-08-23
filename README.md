@@ -25,13 +25,9 @@ Results-driven Data Analyst certified through the **Google Data Analytics Profes
 | Project | Domain | Core Tools | Key Insights & Deliverables |
 |---|---|---|---|
 | [**Customer Behavioral Segmentation**](https://github.com/MdKaifAnsari-786/Customer-Behavioral-Segmentation) | Marketing / E-commerce | Python, Pandas, Matplotlib | Clustered customers into behavioral tiers using transaction frequency, average order value, and cancellation patterns. |
-
 | [**Customer Churn Prediction**](https://github.com/MdKaifAnsari-786/Customer-Churn-Prediction) | Predictive Analytics | Python, Scikit-learn, Pandas | Identified key attrition drivers and developed classification models to detect at-risk customers early. |
-
 | [**Banking Analytics**](https://github.com/MdKaifAnsari-786/Banking-Analytics) | Finance & Risk | Advanced SQL | Analyzed loan portfolios, default risks, and customer transaction patterns across relational database tables. |
-
 | [**Ecommerce Sales Analysis**](https://github.com/MdKaifAnsari-786/Ecommerce-Sales-Analysis) | Retail Operations | SQL, Power BI | Evaluated multi-year revenue trends, repeat customer rates, and customer lifetime value (CLV) with dashboard reporting. |
-
 | [**HR Analytics**](https://github.com/MdKaifAnsari-786/HR-Analytics) | People Operations | SQL, Power BI | Analyzed departmental attrition rates, promotion eligibility metrics, and compensation equity. |
 
 ---
