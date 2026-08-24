@@ -14,7 +14,7 @@ Results-driven Data Analyst certified through the **Google Data Analytics Profes
 
 ### 🛠️ Tech Stack & Core Skills
 
-- **Languages & Databases:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn)
+- **Languages & Databases:** SQL (PostgreSQL, MySQL), Python (Pandas, NumPy, Matplotlib)
 - **BI & Visual Analytics:** Power BI (DAX, Data Modeling, Dashboard Design), Advanced Excel (Pivot Tables, Formulas)
 - **Analytical Competencies:** Exploratory Data Analysis (EDA), Customer Segmentation (RFM), Churn Modeling, Cohort & Retention Analysis, Financial & Sales Analytics
 
