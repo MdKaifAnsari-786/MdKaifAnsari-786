@@ -7,8 +7,8 @@ Results-driven Data Analyst certified through the **Google Data Analytics Profes
 
 ### 📜 Certifications
 
-- **Google Data Analytics Professional Certificate** — *Google / Coursera*
-  - Key Focus: Data Cleaning, SQL Querying, Tableau, R/Python Programming, Exploratory Data Analysis, and Business Problem Solving.
+- **Google Data Analytics Professional Certificate** — *Google / Coursera
+  - Key Focus: Data Cleaning, SQL Querying, Tableau, Python Programming, Exploratory Data Analysis, and Business Problem Solving.
 
 ---
 
