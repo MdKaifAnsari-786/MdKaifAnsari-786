@@ -1,18 +1,18 @@
 # Hi, I'm Md Kaif Ansari 👋
-### Data Analyst & Analytics Engineer | SQL • Python • Tableau • Power BI • Applied AI
+### Data Analyst & Accountant | EXCEL • SQL • Python • Power BI • Applied AI
 
-Results-driven Data Analyst certified through the **Google Data Analytics Professional Certificate**[cite: 2] and **Jio Institute AI Classroom**[cite: 1], combining hands-on business experience in accounting and financial operations[cite: 3] with modern analytics engineering. Experienced in relational database architecture, automated in-kernel AI copilots, machine learning workflows, and interactive business intelligence dashboards.
+Results-driven Data Analyst certified through the **Google Data Analytics Professional Certificate** and **Jio Institute AI Classroom**, combining hands-on business experience in accounting and financial operations with modern analytics engineering. Experienced in relational database architecture, automated in-kernel AI copilots and interactive business intelligence dashboards.
 
 ---
 
 ### 📜 Verified Certifications & Badges
 
-* **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/R72MY3WZNTOG)** — *Google / Coursera* (Aug 2026)[cite: 2]  
-  * Credential ID: `R72MY3WZNTOG`[cite: 2]
-  * Comprehensive 9-course specialization covering SQL, Python, Tableau, Spreadsheets, and AI-accelerated analytics[cite: 2].
-* **AI Foundation Course Badge** — *Jio Institute / JioPC AI Classroom*[cite: 1]  
-  * Credential ID: `osulfEurplet`[cite: 1]
-  * Applied fundamentals in artificial intelligence, prompt design, and digital workflows[cite: 1].
+* **[Google Data Analytics Professional Certificate](https://coursera.org/verify/professional-cert/R72MY3WZNTOG)** — *Google / Coursera* (2026)  
+  * Credential ID: `R72MY3WZNTOG`
+  * Comprehensive 9-course specialization covering SQL, Python, Tableau, Spreadsheets, and AI-accelerated analytics.
+* **AI Foundation Course Badge** — *Jio Institute / JioPC AI Classroom*  
+  * Credential ID: `osulfEurplet`
+  * Applied fundamentals in artificial intelligence, prompt design, and digital workflows.
 
 ---
 
@@ -37,7 +37,7 @@ Custom developer tools built to streamline SQL, Excel, and Jupyter data analytic
 
 ---
 
-### 🚀 Featured Analytics & Machine Learning Projects
+### 🚀 Featured Analytics Projects
 
 | Project | Domain | Tech Stack | Highlights & Business Impact |
 |---|---|---|---|
@@ -51,10 +51,10 @@ Custom developer tools built to streamline SQL, Excel, and Jupyter data analytic
 
 ### 💼 Professional Experience
 
-**Accountant** | *Revelganj Fed Farmer Producer Company Limited* *(Aug 2025 – Present)*[cite: 3]
-* Supervised day-to-day general ledger accounting, accounts payable/receivable, and cash flow reconciliation for an active enterprise[cite: 3].
-* Structured transactional datasets and standardized periodic financial ledgers to ensure audit-readiness and compliance[cite: 3].
-* Reported operational performance metrics directly to executive leadership to guide working capital allocation[cite: 3].
+**Accountant** | *Revelganj Fed Farmer Producer Company Limited* *(Aug 2025 – Present)*
+* Supervised day-to-day general ledger accounting, accounts payable/receivable, and cash flow reconciliation for an active enterprise.
+* Structured transactional datasets and standardized periodic financial ledgers to ensure audit-readiness and compliance.
+* Reported operational performance metrics directly to executive leadership to guide working capital allocation.
 
 ---
 
