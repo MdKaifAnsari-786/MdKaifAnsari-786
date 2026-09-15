@@ -1,5 +1,5 @@
 # Hi, I'm Md Kaif Ansari 👋
-### Data Analyst & Accountant | EXCEL • SQL • Python • Power BI • Applied AI
+### Data Analyst & Accountant | Excel • SQL • Python • Power BI • Applied AI
 
 Results-driven Data Analyst certified through the **Google Data Analytics Professional Certificate** and **Jio Institute AI Classroom**, combining hands-on business experience in accounting and financial operations with modern analytics engineering. Experienced in relational database architecture, automated in-kernel AI copilots and interactive business intelligence dashboards.
 
